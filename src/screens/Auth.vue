@@ -85,8 +85,6 @@ const handleRegister = async () => {
 			class="bg-gray-900 p-10 rounded-lg shadow-xl text-white w-[480px] mx-auto h-[800px] mt-[210px]"
 		>
 			<div class="content w-[400px]">
-				<h2 class="text-3xl font-bold mb-2 text-center">ABSOLUTE</h2>
-				<h2 class="text-3xl font-bold mb-2 text-center">ONLINE SCHOOL</h2>
 				<div class="space-y-4">
 					<div>
 						<div class="flex items-center justify-center mb-[30px] mt-[30px]">
@@ -100,7 +98,7 @@ const handleRegister = async () => {
 								]"
 								@click="isRegistering = false"
 							>
-								Log In
+								Кіру
 							</button>
 							<button
 								:class="[
@@ -112,7 +110,7 @@ const handleRegister = async () => {
 								]"
 								@click="isRegistering = true"
 							>
-								Register
+								Тіркелу
 							</button>
 						</div>
 						<!-- Login Form -->
@@ -121,7 +119,7 @@ const handleRegister = async () => {
 								<input
 									type="text"
 									v-model="email"
-									placeholder="Email"
+									placeholder="Электронды пошта"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -129,7 +127,7 @@ const handleRegister = async () => {
 								<input
 									type="password"
 									v-model="password"
-									placeholder="Password"
+									placeholder="Құпия сөз"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -137,7 +135,7 @@ const handleRegister = async () => {
 								type="submit"
 								class="btn-active w-full hover: text-white font-bold py-2 px-4 rounded focus:outline-none shadow-lg transform transition-all duration-150"
 							>
-								Sign In
+								Кіру
 							</button>
 						</form>
 						<!-- Register Form -->
@@ -146,7 +144,7 @@ const handleRegister = async () => {
 								<input
 									type="text"
 									v-model="name"
-									placeholder="Name"
+									placeholder="Аты"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -154,7 +152,7 @@ const handleRegister = async () => {
 								<input
 									type="text"
 									v-model="surname"
-									placeholder="Surname"
+									placeholder="Тегі"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -162,7 +160,7 @@ const handleRegister = async () => {
 								<input
 									type="text"
 									v-model="email"
-									placeholder="Email"
+									placeholder="Электронды пошта"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -171,7 +169,7 @@ const handleRegister = async () => {
 								<input
 									type="password"
 									v-model="password"
-									placeholder="Password"
+									placeholder="Құпия сөз"
 									class="w-full p-2 rounded bg-gray-800 text-white focus:outline-none border-b-2 border-purple-600"
 								/>
 							</div>
@@ -179,7 +177,7 @@ const handleRegister = async () => {
 								type="submit"
 								class="btn-active w-full hover: text-white font-bold py-2 px-4 rounded focus:outline-none transform transition-all duration-150"
 							>
-								Register
+								Тіркелу
 							</button>
 						</form>
 					</div>
