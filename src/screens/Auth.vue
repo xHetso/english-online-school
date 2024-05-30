@@ -85,6 +85,7 @@ const handleRegister = async () => {
 			class="bg-gray-900 p-10 rounded-lg shadow-xl text-white w-[480px] mx-auto h-[800px] mt-[210px]"
 		>
 			<div class="content w-[400px]">
+				<h2 class="text-3xl font-bold mb-2 text-center">ОНЛАЙН МЕКТЕП</h2>
 				<div class="space-y-4">
 					<div>
 						<div class="flex items-center justify-center mb-[30px] mt-[30px]">
