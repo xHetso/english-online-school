@@ -3,7 +3,7 @@ import Cookies from 'js-cookie'
 
 // Создаем экземпляр axios
 const api = axios.create({
-	baseURL: 'http://localhost:4200/api',
+	baseURL: 'https://backend-english-school.onrender.com/api',
 	withCredentials: true, // Необходимо для автоматической отправки cookies
 })
 

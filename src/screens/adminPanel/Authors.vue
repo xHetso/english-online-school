@@ -68,7 +68,7 @@ async function handleUpdate() {
       <tbody>
         <tr v-for="author in authors" :key="author._id" class="bg-gray-800 border-b">
           <td class="px-4 py-2 text-center">
-            <img :src="`http://localhost:4200${author.photo}`" alt="" class="w-10 h-10 rounded-full mx-auto">
+            <img :src="`https://backend-english-school.onrender.com${author.photo}`" alt="" class="w-10 h-10 rounded-full mx-auto">
           </td>
           <td class="px-4 py-2">{{ author.name }}</td>
           <td class="px-4 py-2">{{ author.slug }}</td>

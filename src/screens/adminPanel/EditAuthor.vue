@@ -73,7 +73,7 @@
     formData.append('file', file);
 
     try {
-      const response = await fetch('http://localhost:4200/api/files?folder=authors', {
+      const response = await fetch('https://backend-english-school.onrender.com/api/files?folder=authors', {
         method: 'POST',
         body: formData
       });

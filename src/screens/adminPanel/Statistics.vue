@@ -9,7 +9,7 @@ const totalTeachers = ref(0);
 
 const fetchUsers = async () => {
   try {
-    const response = await axios.get('http://localhost:4200/api/users');
+    const response = await axios.get('https://backend-english-school.onrender.com/api/users');
     users.value = response.data;
     totalUsers.value = users.value.length;
     totalStudents.value = users.value.filter(user => user.roles.includes('Student')).length;

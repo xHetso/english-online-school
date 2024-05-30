@@ -19,7 +19,7 @@
             <td class="py-3 px-6">{{ intensive.description }}</td>
             <td class="py-3 px-6">{{ intensive.slug }}</td>
             <td class="py-3 px-6">
-              <img :src="'http://localhost:4200'+intensive.poster" alt="Постер" class="h-20 w-auto">
+              <img :src="'https://backend-english-school.onrender.com'+intensive.poster" alt="Постер" class="h-20 w-auto">
             </td>
             <td class="px-4 py-2 text-center">
               <button @click="editIntensive(intensive._id)" class="text-blue-500 hover:text-blue-700">

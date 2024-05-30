@@ -12,7 +12,7 @@ function updateProfileData() {
     userName.value = `${user.name} ${user.surname}`;
     userRole.value = `${user.roles}`
     userAvatar.value = user.avatar
-      ? `http://localhost:4200${user.avatar}?${new Date().getTime()}`
+      ? `https://backend-english-school.onrender.com${user.avatar}?${new Date().getTime()}`
       : '/src/assets/images/anonym.webp';
   }
 }

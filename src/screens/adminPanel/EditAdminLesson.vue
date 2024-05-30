@@ -132,7 +132,7 @@
   formData.append('file', file);
 
   try {
-    const response = await fetch('http://localhost:4200/api/files?folder=lessons', {
+    const response = await fetch('https://backend-english-school.onrender.com/api/files?folder=lessons', {
       method: 'POST',
       body: formData
     });

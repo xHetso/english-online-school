@@ -7,7 +7,7 @@ const users = ref([])
 
 const fetchUsers = async () => {
   try {
-    const response = await axios.get('http://localhost:4200/api/users')
+    const response = await axios.get('https://backend-english-school.onrender.com/api/users')
     users.value = response.data
   } catch (error) {
     console.error('Failed to fetch users:', error)

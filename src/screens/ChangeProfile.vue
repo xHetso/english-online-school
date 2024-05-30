@@ -4,7 +4,7 @@
 			<div class="col">
 				<img
         class="w-36 h-36 rounded-full mb-5 object-cover"
-        :src="`http://localhost:4200` + formData.avatar || '/src/assets/images/anonym.webp'"
+        :src="`https://backend-english-school.onrender.com` + formData.avatar || '/src/assets/images/anonym.webp'"
       />
 			</div>
 			<div>
@@ -173,7 +173,7 @@ const uploadImage = async (userId, file) => {
   uploadFormData.append('file', file);
 
   try {
-    const response = await fetch(`http://localhost:4200/api/files?folder=users/${userId}`, {
+    const response = await fetch(`https://backend-english-school.onrender.com/api/files?folder=users/${userId}`, {
       method: 'POST',
       body: uploadFormData, // И использовал новое имя переменной
     });

@@ -9,7 +9,7 @@
       </select>
       <div :key="currentLesson._id" class="video-container mt-6">
         <video width="640" height="360" controls class="w-full h-auto mx-auto">
-          <source :src="`http://localhost:4200${currentLesson.videoUrl}`" type="video/mp4">
+          <source :src="`https://backend-english-school.onrender.com${currentLesson.videoUrl}`" type="video/mp4">
         </video>
       </div>
       <div class="exercises mt-6">
@@ -36,7 +36,7 @@
     
     const fetchData = async () => {
       try {
-        const response = await axios.post('http://localhost:4200/api/lessons/by-intensives', {
+        const response = await axios.post('https://backend-english-school.onrender.com/api/lessons/by-intensives', {
           intensiveIds: [intensiveId]
         });
         lessons.value = response.data;

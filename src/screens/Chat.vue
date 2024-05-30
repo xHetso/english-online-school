@@ -59,7 +59,7 @@ const users = ref([]);
 onMounted(async () => {
   try {
     // Сіздің API-ға сұрау жасау
-    const response = await fetch('http://localhost:4200/api/users');
+    const response = await fetch('https://backend-english-school.onrender.com/api/users');
     
     if (!response.ok) {
       // HTTP қатесін өңдеу мүмкін
@@ -74,7 +74,7 @@ onMounted(async () => {
       id: user._id,
       name: `${user.name}`,
       surname: `${user.surname}`,
-      avatar: `http://localhost:4200${user.avatar}`, // Олардың аватарларына деген жолды ауыстырыңыз, егер олар бар болса
+      avatar: `https://backend-english-school.onrender.com${user.avatar}`, // Олардың аватарларына деген жолды ауыстырыңыз, егер олар бар болса
       roles: `${user.roles}`,
       isActive: false
     }));
@@ -99,7 +99,7 @@ const getUserDataFromLocalStorage = () => {
 
 const messages = ref([]);
 const newMessage = ref('');
-const socket = io('http://localhost:4200/api/chat'); // Серверіңіздің URL-ына ауыстырыңыз
+const socket = io('https://backend-english-school.onrender.com/api/chat'); // Серверіңіздің URL-ына ауыстырыңыз
 
 const activeUser = ref(null);
 

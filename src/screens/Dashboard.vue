@@ -17,7 +17,7 @@ const router = useRouter();
 
 onMounted(async () => {
   try {
-    const response = await axios.get('http://localhost:4200/api/authors');
+    const response = await axios.get('https://backend-english-school.onrender.com/api/authors');
     authors.value = response.data;
   } catch (error) {
     console.error('Авторларды алу кезінде қате пайда болды:', error);
@@ -72,7 +72,7 @@ function goToCourses() {
         @click="goToCourses"
       >
         <img 
-          :src="'http://localhost:4200'+author.photo" 
+          :src="'https://backend-english-school.onrender.com'+author.photo" 
           :alt="author.name" 
           class="w-full aspect-square object-cover rounded-t-3xl"
         >

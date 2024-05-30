@@ -83,7 +83,7 @@ async function submitEdit(id) {
   formData.append('file', file);
 
   try {
-    const response = await fetch('http://localhost:4200/api/files?folder=intensives', {
+    const response = await fetch('https://backend-english-school.onrender.com/api/files?folder=intensives', {
       method: 'POST',
       body: formData
     });
