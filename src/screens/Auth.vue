@@ -14,7 +14,7 @@ const handleLogin = async () => {
 			email: email.value,
 			password: password.value,
 		})
-		const response = await fetch('https://backend-english-school.onrender.com:4200//auth/login', {
+		const response = await fetch('https://backend-english-school.onrender.com/api/auth/login', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
@@ -45,7 +45,7 @@ const handleLogin = async () => {
 
 const handleRegister = async () => {
 	try {
-		const response = await fetch('https://backend-english-school.onrender.com:4200//auth/register', {
+		const response = await fetch('https://backend-english-school.onrender.com/api/auth/register', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
