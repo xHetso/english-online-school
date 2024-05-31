@@ -1,10 +1,7 @@
 <script setup>
 import Cookies from 'js-cookie'
 import { ref } from 'vue'
-import { useRouter } from 'vue-router';
 
-
-const router = useRouter();
 const isRegistering = ref(false)
 const name = ref('')
 const email = ref('')
@@ -17,7 +14,7 @@ const handleLogin = async () => {
 			email: email.value,
 			password: password.value,
 		})
-		const response = await fetch('https://backend-english-school.onrender.com/api/auth/login', {
+		const response = await fetch('https://backend-english-school.onrender.com:4200//auth/login', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
@@ -37,7 +34,7 @@ const handleLogin = async () => {
 			})
 			localStorage.setItem('user', JSON.stringify(data.user))
 			console.log('Success', data)
-			router.push({ path: '/' }); //// Добавлено перенаправление
+			window.location.href = 'http://localhost:5173/'; // Добавлено перенаправление
 		} else {
 			console.log('Authentication failed:', data.message)
 		}
@@ -48,7 +45,7 @@ const handleLogin = async () => {
 
 const handleRegister = async () => {
 	try {
-		const response = await fetch('https://backend-english-school.onrender.com/api/auth/register', {
+		const response = await fetch('https://backend-english-school.onrender.com:4200//auth/register', {
 			method: 'POST',
 			headers: {
 				'Content-Type': 'application/json',
@@ -70,7 +67,7 @@ const handleRegister = async () => {
 			})
 			localStorage.setItem('user', JSON.stringify(data.user))
 			console.log('Success', data)
-			router.push({ path: '/' }); //// Добавлено перенаправление
+			window.location.href = 'http://localhost:5173/'; // Добавлено перенаправление
 		} else {
 			console.log('Registration failed:', data.message)
 		}
