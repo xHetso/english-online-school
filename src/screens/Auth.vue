@@ -1,7 +1,10 @@
 <script setup>
 import Cookies from 'js-cookie'
 import { ref } from 'vue'
+import { useRouter } from 'vue-router';
 
+
+const router = useRouter();
 const isRegistering = ref(false)
 const name = ref('')
 const email = ref('')
@@ -34,7 +37,7 @@ const handleLogin = async () => {
 			})
 			localStorage.setItem('user', JSON.stringify(data.user))
 			console.log('Success', data)
-			window.location.href = 'http://localhost:5173/'; // Добавлено перенаправление
+			router.push({ path: '/' }); //// Добавлено перенаправление
 		} else {
 			console.log('Authentication failed:', data.message)
 		}
@@ -67,7 +70,7 @@ const handleRegister = async () => {
 			})
 			localStorage.setItem('user', JSON.stringify(data.user))
 			console.log('Success', data)
-			window.location.href = 'http://localhost:5173/'; // Добавлено перенаправление
+			router.push({ path: '/' }); //// Добавлено перенаправление
 		} else {
 			console.log('Registration failed:', data.message)
 		}
