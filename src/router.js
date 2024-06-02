@@ -13,6 +13,7 @@ import Lessons from './screens/Lessons.vue'
 import PresentSimpleTest from './screens/PresentSimpleTest.vue'
 import PastSimpleTest from './screens/PastSimpleTest.vue'
 import FutureSimpleTest from './screens/FutureSimpleTest.vue'
+import Games from './screens/Games.vue'
 /*
 import Statistics from './screens/adminPanel/Statistics.vue'
 import Teachers from './screens/adminPanel/Teachers.vue'
@@ -40,8 +41,14 @@ const routes = [
 			},
 			{
 				path: '/courses',
-				name: 'Cабақтар',
+				name: 'Тапсырмалар',
 				component: Courses,
+				meta: { role: roles.user },
+			},
+			{
+				path: '/games',
+				name: 'Ойындар',
+				component: Games,
 				meta: { role: roles.user },
 			},
 			{
@@ -78,7 +85,7 @@ const routes = [
 			},
 			{
 				path: '/documentation',
-				name: 'Ағылшын тілін оқу ережелері',
+				name: 'Ертегілер',
 				component: Documentation,
 				meta: { role: roles.user },
 			},

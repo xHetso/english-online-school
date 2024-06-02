@@ -40,10 +40,11 @@ function logout() {
 		<nav-profile-component />
 		<div class="flex flex-col justify-center items-center">
       <nav-button-component to="/" name="Басты" />
-			<nav-button-component to="/courses" name="Сабақтар" />
+			<nav-button-component to="/courses" name="Тапсырмалар" />
 			<nav-button-component to="/chat" name="Чат" />
-			<nav-button-component to="/documentation" name="Оқу ережелері" />
+			<nav-button-component to="/documentation" name="Ертегілер" />
 			<nav-button-component to="/exam" name="Тестілеу" />
+      <nav-button-component to="/games" name="Ойындар" />
 			<nav-button-component v-if="showAdminPanel" to="/admin-lessons" name="Әкімшілік" />
 		</div>
 		<a class="logout-button" @click="logout">Шығу</a>

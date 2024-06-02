@@ -1,61 +1,61 @@
+<script>
+export default {
+  mounted() {
+    const images = document.querySelectorAll('img');
+    images.forEach(image => {
+      image.addEventListener('click', this.openFullscreen);
+    });
+  },
+  methods: {
+    openFullscreen(event) {
+      const elem = event.target;
+      if (elem.requestFullscreen) {
+        elem.requestFullscreen();
+      } else if (elem.mozRequestFullScreen) { // Firefox
+        elem.mozRequestFullScreen();
+      } else if (elem.webkitRequestFullscreen) { // Chrome, Safari and Opera
+        elem.webkitRequestFullscreen();
+      } else if (elem.msRequestFullscreen) { // IE/Edge
+        elem.msRequestFullscreen();
+      }
+    }
+  }
+}
+</script>
 <template>
-  <div class="flex flex-wrap justify-center">
-    <a href="https://www.superteacherworksheets.com/reading-comp/6th-elephant-seals_SNOUT.pdf" class="card-link">
-      <div class="card">
-        <h1 class="card-title">Elephant Seals</h1>  
-        <p class="card-description">The world's largest seals make their home in the frigid Antarctic. Learn all about elephant seals and how they've adapted to their environment. 6th Grade</p>
-      </div>
-    </a>
-
-    <a href="https://www.superteacherworksheets.com/reading-comp/6th-red-kangaroo_KANGA.pdf" class="card-link">
-      <div class="card">
-        <h1 class="card-title">World's Largest Marsupial</h1>  
-        <p class="card-description">This article will teach students about the red kangaroo. Measuring 6 feet tall and weighing 200 pounds, it is the world's largest marsupial. 6th Grade</p>
-      </div>
-    </a>
-
-    <a href="https://www.superteacherworksheets.com/reading-comp/6th-falling-asleep_SLEEP.pdf" class="card-link">
-      <div class="card">
-        <h1 class="card-title">Falling Asleep</h1>  
-        <p class="card-description">The person in this poem is worrying about the shadows on the walls and can not fall asleep. 6th Grade</p>
-      </div>
-    </a>
-
-    <a href="https://www.superteacherworksheets.com/reading-comp/science-innerplanets_WBRRN.pdf" class="card-link">
-      <div class="card">
-        <h1 class="card-title">The Inner Planets</h1>  
-        <p class="card-description">Learn about the terrestrial inner planets of our solar system. <br> 5th through 7th Grades</p>
-      </div>
-    </a>
+  <div class="grid grid-cols-4 gap-10">
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book1.jpg" alt="Book 1" id="book1">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book2.jpg" alt="Book 2" id="book2">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book3.jpg" alt="Book 3" id="book3">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book4.jpg" alt="Book 4" id="book4">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book5.jpg" alt="Book 5" id="book5">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book6.jpg" alt="Book 6" id="book6">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book7.jpg" alt="Book 7" id="book7">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book8.jpg" alt="Book 8" id="book8">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book9.jpg" alt="Book 9" id="book9">
+    </div>
+    <div>
+      <img class="w-full cursor-pointer" src="/src/assets/images/book10.jpg" alt="Book 10" id="book10">
+    </div>
   </div>
 </template>
 
 <style scoped>
-.card-link {
-  flex: 0 0 33.33333%;
-  max-width: 33.33333%;
-  padding: 10px;
-}
-
-.card {
-  background-color: #8B5CF6;
-  color: white;
-  border-radius: 5px;
-  transition: background-color 0.3s ease;
-  width: 100%;
-  height: 150px;
-}
-
-.card:hover {
-  background-color: #6D28D9;
-}
-
-.card-title {
-  font-size: 24px;
-}
-
-.card-description {
-  font-size: 18px;
-  margin-top: 10px;
-}
 </style>

@@ -4,191 +4,156 @@
     <div class="bg-gray-800 text-white rounded-[40px] p-4">
         <div class="bg-gray-800 text-white rounded-[40px] p-4">
         <div class="container mx-auto p-4">
-            <img src="../assets/images/banner123.jpg" class="mb-10 rounded-3xl" alt="">
-            <h1 class="text-3xl font-bold">Ол қалай естіледі, солай жазылған ба? Әттең, бұл олай емес... </h1>
-            <p class="mt-4">Ағылшын тілі сабағында оқушылар: «Ағылшын тілінде оқу ережелері неге соншалықты түсініксіз?» деп күңіренеді.<br><br>
-
-Оның бір себебі, ағылшын тілі көптеген тілдерден сөздерді алды . Бірде емлесін сақтаса, бірде өзіне лайықтап өзгертті. Ескі Англияда сөздер жиі оқылатындай жазылды, сондықтан бір сөзді әртүрлі тәсілдермен жазуға болады. Мысалға Шекспирдің қолжазбаларын алайық – бұл хаостың бәрі сонда.<br><br>
-
-Ақырында сөздердің жазылуы бір қалыпқа келтіріліп, сөздіктерге жазылды, бірақ... Ағылшын тілін үйренген сайын сөздің жазылуынан мүлде басқаша оқылатынын байқайсыз. Әдетте мұның тарихи себептері бар.<br><br>
-
-Бір жақсы жаңалық бар. Көптеген ағылшын сөздері жазылғанымен, «Құдай қалағандай» бірнеше ережелер бар сияқты. Бірақ сақ болыңыз, өйткені әрбір ережеде ерекшелік бар.<br><br>
-
-Ағылшын тілінде 44 жеке дыбысты жазудың 1100-ден астам тәсілі бар, бұл кез келген басқа тілге қарағанда көбірек. Бірақ оқу сіз үшін міндет емес, ойын болсын. </p>
+            <img src="../assets/images/e1.jpg" class="mb-10 rounded-3xl h-[500px]" alt="">
+            <h1 class="text-3xl font-bold">The PRINCESS, THE UNICORN and the DWARF By Bridie Howe </h1>
+            <p class="mt-4 text-2xl">
+                Once upon a time, in a castle above the clouds, there lived a beautiful princess. She owned a purple unicorn that loved the song, ‘Party Rock Anthem.'<br><br> 
+ 
+ Every morning the princess would sing a song from, ‘Party Rock Anthem' and her unicorn would appear. They would ride off together to pick strawmangmelons. Strawmangmelons were strawberries, mangoes and watermelons squished together to form a love heart shape and they only came out in the Spring. <br><br>
+  
+ When they had finished picking strawmangmelons of a morning, the princess and her unicorn would arrive back at the castle, where her grandma was awaiting her. The princess' grandma was old, very old. It was almost her time to leave. The princess would always bake a strawmangmelons pie for her grandma's lunch. <br><br>
+  
+ One day the princess sang for her unicorn but he was nowhere to be seen. She left the castle to look for him. The princess couldn't go too far or she would fall off the cloud. <br><br>
+  
+ All of a sudden, the princess wasn't looking where she was going and she slipped off the cloud. <br><br>
+  
+ The princess was found unconscious by the unicorn. Luckily, she had a soft landing on a pile of leaves. <br><br>
+  
+ The princess woke up and saw her unicorn. She got up and dusted herself off. As she turned around to ride her unicorn, he was gone, disappeared, vanished. <br><br>
+  
+ ‘Where did he go?' the princess thought to herself. The princess had never walked alone before. She searched and searched and sang and sang until she reached a bridge; an old, green, brick bridge. Before she could step foot on the bridge, two identical gorillas jumped up in front of her. <br><br>
+  
+ "Who do u think you are? Trying to cross our bridge!" yelled the grumpy gorillas. <br><br>
+  
+ "I am looking for my purple unicorn. Have you seen him?" asked the princess. The gorillas didn't reply. They were too busy rubbing their bellies and licking their lips. <br><br>
+  
+ "Do you know what we really love eating?- Little girls with lovely gold locks!" said the hungry gorillas, walking towards her. <br><br></p>
         </div>
         </div>
     </div>
 
-    <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-8">
+
+
+    <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-10">
         <div class="bg-gray-800 text-white rounded-[40px] p-4">
-            <div class="container mx-auto p-4">
-                <h2 class="text-3xl font-bold" id="javascript-basic">Біздің кеңестермен үйреніңіз!</h2>
-                <p class="mt-4">1. Қиындық туындаған сөздерді дәптерге жазыңыз. Сөздің сізге ең қиын бөлігінің астын сызыңыз.<br><br>
-2. Емлені тексеру құралын емес, сөздікті пайдаланыңыз! Өкінішке орай, сіз оған әрқашан сене алмайсыз.<br><br>
-3. Префикс пен жұрнақтың барлық түрі бар сөздерді үйреніңіз, мысалы: biography — autobiography, child — childhood, т.б.<br><br>
-4. Ережелерді үйреніңіз, бірақ оларға сенбеңіз. Біз жоғарыда айттық: әр ереженің өзіндік ерекшелігі бар. Бұл туралы төменде айтатын боламыз. </p>
-            </div>
+        <div class="container mx-auto p-4">
+            <img src="../assets/images/e2.jpg" class="mb-10 rounded-3xl h-[500px]" alt="">
+            <h1 class="text-3xl font-bold"></h1>
+            <p class="mt-4 text-2xl">
+                "STOP RIGHT THERE!" yelled a voice coming from the forest. A tiny man, only 90cm tall, came barging through the bushes holding a large sword. <br><br>
+ 
+The incredibly small man started fighting the gorillas off. <br><br>
+ 
+"Run, princess, run!" he shouted. <br><br>
+ 
+The princess ran for her life, falling over prickle bushes and logs but arrived at a little cottage, the size of her closet. <br><br>
+ 
+"Knock! Knock! Knock!" <br><br>
+ 
+"Is anyone home?" yelled the princess. <br><br>
+ 
+The door screamed open, but no-one was there. The princess invited herself in. The princess was horrified at the state this cottage was in. She grabbed a large stick and twirled all the spider webs around it like fairy floss. She mopped the floor and tidied everything up. <br><br>
+ 
+ After all her hard work she sat down with a cup of tea as if it was her own house. On her last sip of her tea, the door crashed open. A bloody, little man came barging in with two gorilla heads in one arm and a blood-dripping sword in the other. <br><br>
+ 
+As soon as the little man laid eyes on the princess, he dropped his jaw and released his weapons. <br><br>
+ 
+"Um... Ahh... What are you doing in my house? Not that I mind!" questioned the little dwarf. <br><br>
+ 
+"I'm injured and need a place to rest," exclaimed the princess. "And here, was the closest place." <br><br>
+ 
+They both sat down in the dwarf's uncomfortable chairs and ate some dreadful cookies. <br><br>
+ 
+After two days with the dwarf, the princess got quite attached. She loved the fact that nothing had to be perfect, and that's how it was. The princess felt feelings for the little man and decided she wanted to be with him forever. <br><br>
+ 
+                        -‘Marriage!'
+            </p>
         </div>
         </div>
-        <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-8">
-    <div class="container mx-auto p-4">
-        <h1 class="text-3xl font-bold" id="javascript-async">«i» «e» алдында жазылады («c» кейін ерекшелік) </h1>
-        <p class="mt-4">Ағылшын тілі сабақтарында оқуды үйренетін алғашқы ережелердің бірі. Ереже "ee" ұзын дыбысы айтылатын сөздерге арналған, мысалы, shield (қалқан).<br><br>
+    </div>
 
-Мысалдар: piece (бөлік), niece (жиен), priest (дін қызметкері), thief (ұры).<br><br>
-
-Бірақ "c" кейін: conceive (түсіну, ойлау), receive (алу), receipt (түбіртек; рецепт сөзінен шатастырмау керек).<br><br>
-
-"а" немесе "i" дыбысы айтылатын сөздерге келсек, бәрі керісінше:<br><br>
-
-"а": eight (сегіз), neighbor (көрші), reign (билеу), weight (салмақ)<br><br>
-
-"i": either (кез келген; не), height (биіктік), feisty (ерегіскіш), sleight (ептілік)<br><br>
-
-Ерекшеліктер: seize (ұстау), weird (ерекше), conscience (ар-ұждан), efficient (тиімді) және т.б.</p>
-            </div>
+    <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-10">
+        <div class="bg-gray-800 text-white rounded-[40px] p-4">
+        <div class="container mx-auto p-4">
+            <img src="../assets/images/e3.jpg" class="mb-10 rounded-3xl h-[500px]" alt="">
+            <h1 class="text-3xl font-bold"></h1>
+            <p class="mt-4 text-2xl">
+            Izzy sat on her bed braiding her long golden-brown hair, wishing for a better home. Downstairs, she heard the Evil Witch calling her name. It was an absolutely bone chilling call-a call that would send shivers up your spine and freeze your blood if you heard it. For years, eight to be precise, Izzy had lived with the Evil Witch in her gloomy, cob-webbed house. She had been taken from her parents when she was two, God knows why, to be her slave. <br><br>
+ 
+            As Izzy slumped down the creaky old stairs, she saw George; the witch's other slave and her best friend, her only friend. He was feeding the Evil Witch's disgusting water goblin, Finger-Biter. George was feeding him goose brains for breakfast. <br><br>
+            
+            "Morning Izz," Grimaced George. "I`m sure these goose brains aren't, um, you know, well not very nice do you think?" <br><br>
+            
+            "Well, they don't smell too good, do they?" Laughed Izzy, holding her nose. "Bye!" <br><br>
+            
+            Izzy continued her journey downstairs to see what that horrible old witch wanted. When she finally got downstairs, she found the Evil Witch stirring her rusty, old cauldron. A fine, purple vapour was pouring out of the top of the cauldron. It was also giving off a fiery stench. <br><br>
+            
+            "Where have you been, you blistering, little gumboil?" Grumbled the witch. <br><br>
+            
+            Izzy shrugged. <br><br>
+            
+            "Answer me!" The Witch roared and using her magic, she turned Izzy upside-down in mid-air. <br><br>
+            
+            When Izzy didn't answer she started jerking her from side to side. Still, Izzy didn't answer, so the old witch made her drop to the floor with a THUD! 
+            <br><br>
+            "Right," cackled the old witch. "I want you to clean the floor, wash the dishes and prune my, ‘King of Thorns' bush, and to add to that, I want my lunch made by the time I get home." <br><br>
+ 
+            Izzy said nothing as the old witch left the room and she watched as the old hag soared up into the air on her broom. <br><br>
+            
+            Izzy sighed. She went to the sink, filled it up with water and got the mop. <br><br>
+            
+            Just then, Izzy noticed that the witch had left her wand behind. She went over and quickly grabbed it. Izzy had a brilliant idea. She picked up the wand, waved it and pointed it at the window. The window smashed! <br><br>
+            
+            Izzy, quickly put the wand down and decided to mop the floor by hand. As she mopped back and forth, she heard a stomping and snorting noise outside. She ventured outside with curiosity. Then, before her very eyes, she saw a beautiful, glistening, silver, majestic unicorn. It's beautiful, silver mane drifted in the warm breeze and her gleaming, white coat shone so brightly it was almost blinding. But, it was her horn that shone the brightest. The gorgeous animal put her velvety nose up against Izzy's cheek and a soft, strange voice said, gently,"my name is Snow. I have come to save you from that beastly witch." <br><br>
+            
+            Izzy stared in amazement. <br><br>
+            
+            " Get George and then we can go," said Snow. <br><br>
+            
+            Izzy raced to get George. George dumped the rest of the goose brains in the tank, burying Finger Biter. They raced out of the room, down the outside stairs and ran into Snow. <br><br>
+            
+            George gasped and stared, and then he also heard the gentle voice in his head. <br><br>
+            
+            "Hop on!" <br><br>
+            
+            Izzy heard it too. Snow bent down and they both got on. Then, in a big whoosh, they took off at a remarkable pace. Everything was a blur, as they soared past farms and towns. Izzy's cheeks stung from the cold as she lent forwards and rested her head on Snow's soft mane. Izzy gradually fell asleep……<br><br>
+            </p>
         </div>
-
-
-        <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-8">
-    <div class="container mx-auto p-4">
-        <img src="../assets/images/banner456.jpg" class="mb-10 rounded-3xl" alt="">
-        <h1 class="text-3xl font-bold" id="javascript-async">«i» «e» алдында жазылады («c» кейін ерекшелік) </h1>
-        <p class="mt-4">Ағылшын тілінде айтылмайтын әріптер көптеп кездеседі. Сонда сұрақ туындайды: неге ағылшындар сөзге әріптерді кіргізеді, бірақ оларды айтпайды?..<br><br>
-
-<h1 class="text-2xl mb-4 font-bold" id="javascript-async">Мылқау куәгер немесе айтылмайтын әріп деген не?</h1>
-Айтылмайтын әріп (silent letter) – бұл сөзде тұруы тиіс әріп, бірақ оны оқымаймыз. Әріптердің жартысынан көбі айтылмайтын рөлде бола алады. Олар сөздің басында, аяғында немесе ортасында болуы мүмкін – сөздің дыбысталуы бойынша олардың бар-жоғын түсінбейсіз.<br><br>
-
-Айтылмайтын әріптерге мысалдар:<br>
-a – thread (жіп), bread (нан), tread (басу)<br>
-b – lamb (қозы), bomb (бомба), womb (жатыр)<br>
-c – scissors (қайшы), science (ғылым), scent (иіс)<br>
-d – edge (қыры), bridge (көпір), badge (белгі)<br>
-e – төменде қараңыз<br>
-h – honour (құрмет), honest (адал), school (мектеп)<br>
-k – knot (түйін), knight (рыцарь), knowledge (білім)<br>
-l – talk (сөйлесу), psalm (забур), balm (май)<br>
-n – hymn (гимн), autumn (күз), column (бағана, баған)<br>
-p – pneumatic (пневматикалық), psalm (забур), psychology (психология)<br>
-s – isle, island (арал), aisle (өту жолы, мысалы, ұшақта)<br>
-t – listen (тыңдау), rustle (сыбырлау), whistle (ысқыру)<br>
-u – biscuit (печенье; бисквит емес!), guess (жорамал), guitar (гитара)<br>
-w – write (жазу), wrong (қате), wrist (білезік)<br></p>
-
-<h1 class="text-2xl mt-4 mb-4 font-bold" id="javascript-async">Айтылмайтын “e”</h1>
-
-Айтылмайтын “e” – ең жиі кездесетін айтылмайтын әріп. Айтылмайтын “e” әрпімен аяқталатын сөздерді жазудың бірнеше мызғымас ережесі бар.<br>
-
-Мұндай сөзге жұрнақ (suffix) қосқанда, егер бұл жұрнақ дауыссыздан басталса, сөздің түбірін (stem) өзгерту қажет емес.<br><br>
-
-Мысалдар:<br>
-
-force (күш) + ful = forceful (күшті)<br>
-
-manage (басқару) + ment = management (басқару)<br>
-
-sincere (шын) + ly = sincerely (шын жүректен)<br>
-
-Егер жұрнақ дауыстыдан немесе “y” әрпінен басталса, суффикс алдында тұрған “e” әрпін алып тастау қажет.<br>
-
-Мысалдар:<br>
-
-fame (атақ) + ous = famous (атақты)<br>
-
-nerve (жүйке) + ous = nervous (жүйкелі)<br>
-
-believable (сенімді) + y = believably (сенімді түрде)<br>
-
-criticise (сын айту) + ism = criticism (сын)<br>
-
-Ерекшеліктер: mileage (мильмен өлшенетін қашықтық), agreeable (ынтымақты).<br>
-            </div>
         </div>
-        <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-8">
-    <div class="container mx-auto p-4">
-        <img src="../assets/images/banner789.jpg" class="mb-10 rounded-3xl" alt="">
-        <h1 class="text-3xl font-bold" id="javascript-async">Префикстер мен суффикстер </h1>
-        <p class="mt-4">
-Префикс (әріп алып тастау) сөзге қосқанда, сөздің негізін әдісімен өзгерту қажет емес.<br>
+    </div>
 
-Мысалдар:<br>
 
-anti + septic = antiseptic (антисептик)<br>
-
-auto + biography = autobiography (автобиография)<br>
-
-de + mobilize = demobilize (демобилизация)<br>
-
-dis + approve = disapprove (қамтылмау)<br>
-
-im + possible = impossible (мүмкін емес)<br>
-
-inter + national = international (ұлттық)<br>
-
-mega + byte = megabyte (мегабайт)<br>
-
-mis + fortune = misfortune (жаман кездесу)<br>
-
-micro + chip = microchip (микрочип)<br>
-
-re + used = reused (қайтадан пайдаланылған)<br>
-
-un + available = unavailable (қол жетімді емес)<br>
-
-Суффикс (жинау сөзге қосқанда) сөздің негізін көбінесе өзгертеді. Жіберілген кейбір ережелердің төлемдері келеді. Қайтадан айту қажет болса, сөздікті аралыққа қараңыз. </p>
-            </div>
+    <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-10">
+        <div class="bg-gray-800 text-white rounded-[40px] p-4">
+        <div class="container mx-auto p-4">
+            <img src="../assets/images/e4.jpg" class="mb-10 rounded-3xl h-[500px]" alt="">
+            <h1 class="text-3xl font-bold mb-2">The TALE OF CLOCKAMOCKALOCKA and his BRIDE</h1>
+            <h1 class="text-3xl font-bold">Excerpt By Tallulah McKenzie <br>
+WARNING: This story may, or may not be based on actual people. </h1>
+            <p class="mt-4 text-2xl">
+                In a place far, far away there was a land named Fortona, a place filled with faith, trust and pixie dust, and in Fortona a wedding was taking place. Prince Harry Clockamockalocka II, son to the king, was marrying his beloved. Her name was Princess Isabella Clamenella, daughter to a ruler of a nearby land. 
+ 
+                The wedding was spectacular, having been created by two of the richest men alive. There were elegant white chairs and tables with a single rose for the center piece. It was all on a beach with the waves crashing behind them. Despite the hot sun there were ice sculptures galore, created by the most famous sculptor in the world who can make ice never melt.  <br><br>
+                
+                Princess Isabella was wearing the most beautiful dress imaginable with white lace and elaborate, flower designs. The trail was so long you could fit a dragon's body and tail on it and still see to its trailing end. The wedding was going smoothly until the priest was saying his last words….  <br><br>
+                
+                "You may now ki…." began the priest.  <br><br>
+                
+                "Ohh! This wedding is so boring!" interrupted an unknown voice from somewhere in the crowd. Everyone turned and stared at who might have spoken. <br><br> 
+                
+                All of a sudden, a lady dressed in ragged, black robes emerged from the sea of people and started strutting down the aisle.  <br><br>
+                
+                "I mean! Isn't this a waste of time? So far, the first two wives that Prince Harry has had, have died in child birth or divorced him because they apparently, ‘didn't love him anymore'," continued the lady in black.  <br><br>
+                
+                As she reached the stage on which the priest, groom and bride were standing, her face became clear for everyone to see. Think of the most ugly face you have ever seen and times that by a hundred, and you won't even get close to how ugly she was! Her face was bulging with thousands of warts, the size of bottle lids and the little bits of skin you could see between the warts was shriveled up like an old prune. Her beady eyes were bloodshot and her lips were as cracked as broken glass.  <br><br>
+                
+                "I believe that Prince Harry should prove that he will be a good husband, don't you think?" cackled the lady.  <br><br>
+                
+                By then there were guards surrounding the whole perimeter of the wedding….
+            </p>
         </div>
-
-
-        <div class="bg-gray-800 text-white rounded-[40px] p-4 mt-8">
-    <div class="container mx-auto p-4">
-    <h1 class="text-3xl font-bold" id="javascript-async">Сөз соңы</h1>
-    <p class="mt-4">«ce» және «ge» аяқталатын сөздерге «a» немесе «o» басталатын суффиксті қосқанда, «e» әрекетін сақтайды.</p>
-
-    <h2 class="text-2xl font-bold mt-4">Мысалдар:</h2>
-    <ul>
-        <li>manage (өңдеу) + able = manageable (өңделетін)</li>
-        <li>notice (тақырыпты) + able = noticeable (тақырыпты)</li>
-        <li>courage (мейірім) + ous = courageous (мейірімді)</li>
-        <li>Исключение: prestige (престиж) + ous = prestigious (престижді)</li>
-    </ul>
-
-    <h1 class="text-2xl font-bold mt-4">«ie» соңындағы сөздер</h1>
-    <p>«ie» соңындағы глаголдарға «ing» қосқанда, «e» қайталанады, және «i» «y»-ге ауыстырылады.</p>
-
-    <h2 class="text-2xl font-bold mt-4">Мысалдар:</h2>
-    <ul>
-        <li>die (өлу) — dying (өліп жату)</li>
-        <li>lie (жату) — lying (жату)</li>
-        <li>tie (байлау) — tying (байлау)</li>
-    </ul>
-
-    <h1 class="text-2xl font-bold mt-4">Сөздер, гласнаядан кейін «y»-мен аяқталған</h1>
-    <p>Согласнаның кейіндегі «y» соңына суффикстер қосылғанда, сөз «y» сөздің алдындағы «i»-ге ауыстырылады.</p>
-
-    <h2 class="text-2xl font-bold mt-4">Мысалдар:</h2>
-    <ul>
-        <li>eighty (сегіз жүз) + eth = eightieth (сегізінші)</li>
-        <li>duty (жүктілік) + es = duties (жүктілер)</li>
-        <li>lazy (тұрақсыз) + ness = laziness (тұрақсыздық)</li>
-        <li>mystery (мұра) + ous = mysterious (мұрағай)</li>
-        <li>beauty (әдемі) + ful = beautiful (әдемілік)</li>
-        <li>multiply (көбейту) + ed = multiplied (көбейтілген)</li>
-        <li>cosy (тұрақсыз) + ly = cosily (тұрақсыз)</li>
-    </ul>
-
-    <h1 class="text-2xl font-bold mt-4">Гласнаның кейін «y»-мен аяқталған сөздер</h1>
-    <p>«y» сөздің алдындағы суффикстермен «er», «ing» немесе «ed» соңына сақтайды.</p>
-
-    <h2 class="text-2xl font-bold mt-4">Мысалдар:</h2>
-    <ul>
-        <li>destroy (жою) — destroying — destroyed</li>
-        <li>buy (сатып алу) — buying — buyer</li>
-        <li>play (ою) — playing — player</li>
-    </ul>
-
-    <p>Қажетті есте сақтау, оқу және тілді оқу жолымен байланысты американдық және британдық ағылшын тілінің айырмашылығы деуге қарсы келетін мәселелер болуы мүмкін. Бір нұсқаны таңдаңыз және оны ұстап алыңыз. Ағылшын тілінде оқу құралындағы сипаттамаларды және айырмашылықтарды түсіну үшін оқыңыз. Және есте оқу - бұл қатар тура сақталып отырушы қадамдарды оқуға қызмет етеді!</p>
-</div>
         </div>
+    </div>
+
 </template>
 <style scoped></style>
