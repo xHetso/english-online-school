@@ -55,7 +55,7 @@ function goToCourses() {
       <div @click="goToCourses" class="card bg-gradient-to-tr from-gray-700 to-gray-800 rounded-lg shadow-lg p-6">
         <h3 class="text-xl text-indigo-500 font-semibold mb-4">Жаңа әлем ашу үшін оқу</h3>
         <p>
-          Ағылшын тілінде мәтіндерді оқығанмен қоса, жаңа дүниенің қаһарына жүгірген боласыз. 
+          Әрбір жаңа сөз бен сөз тіркесімен сіз мәдениет пен шекарасыз қарым-қатынасқа еніп, мүмкіндіктеріңізді кеңейтесіз.
         </p>
       </div>
     </div>
