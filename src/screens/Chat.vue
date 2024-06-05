@@ -184,7 +184,7 @@ const groupedMessages = computed(() => {
   color: white;
   padding: 15px;
   border-radius: 12px;
-  max-width: 55%;
+  max-width: 80%;
 }
 
 .other-message {
@@ -193,7 +193,7 @@ const groupedMessages = computed(() => {
   color: white;
   padding: 15px;
   border-radius: 12px;
-  max-width: 55%;
+  max-width: 80%;
 }
 
 
